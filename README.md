@@ -2,7 +2,7 @@
 
 pong game made in java
 
-# Requirements guide:
+## Requirements guide:
 
 - [x] You need the java-se JDK and JRE to run this project
 
@@ -17,7 +17,7 @@ You can access more information about Eclipse or IntelliJ at:
 Eclipse: [https://www.eclipse.org/](https://www.eclipse.org/)
 IntelliJ: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) 
 
-# Execution Guide:
+## Execution Guide:
 
 - [x] Cloning the project on your machine
 - [x] Open be(back-end) folder with your IDE
@@ -25,12 +25,12 @@ IntelliJ: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 - [x] Run the Game file in your IDE
 - [x] Enjoy the game :)
 
-# Technologies
+## Technologies
 
 - [x] Java
 - [x] IntelliJ IDE
 
-# Project
+## Project
 
 <p>
   <img src="https://github.com/Jhoncosta08/Game-Pong/blob/master/projeto.png" style="width: auto; max-height: 300px">
